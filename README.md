@@ -5,7 +5,7 @@ A Minecraft that added a new food item (lampchop) and a eating-the-whole-animal 
 
 License 
 ===========
-    Copyright (C) 2014 sorazodia
+    Copyright (C) 2014 SoraZodia
 
     This program is free software: you can redistribute it and/or modify
 

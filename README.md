@@ -5,4 +5,4 @@ A Minecraft that added a new food item (lampchop) and a eating-the-whole-animal 
 
 License 
 ===========
-   This work is licensed under the [url=https://www.gnu.org/licenses/lgpl.html]GNU Lesser General Public License[/url]
+   This work is licensed under the <a href="https://www.gnu.org/licenses/lgpl.html">GNU Lesser General Public License</a>.
